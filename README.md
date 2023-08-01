@@ -1,2 +1,3 @@
 # Python
-practicing python
+Python basics
+
