@@ -1,7 +1,9 @@
 # GUVI Python Certification Programs
 
    
-[Python Logo](https://www.python.org/static/community_logos/python-logo-generic.svg)
+![Python Logo](https://www.python.org/static/community_logos/python-logo-generic.svg)
+
+
 
 This repository contains all the programs and assignments completed during the GUVI Python Certification course.
 
