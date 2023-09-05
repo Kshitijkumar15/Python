@@ -6,11 +6,11 @@
 
 
 This repository contains all the programs and assignments completed during the GUVI Python Certification course.
-
+$~~~~~~$
 ## Introduction
 
 Welcome to the GUVI Python Certification Programs! This repository serves as a comprehensive collection of Python programs and assignments developed as part of the GUVI Python Certification course. The programs cover a wide range of topics and concepts in Python programming, demonstrating proficiency.
-
+$~~~~~~$
 ## Getting Started
 
 To explore and run the programs in this repository, follow these steps:
@@ -24,11 +24,11 @@ To explore and run the programs in this repository, follow these steps:
 2. **Navigate to Program Directory:** Browse the repository and navigate to the specific program or topic you're interested in.
 
 3. **Run the Program:** Each program directory should contain the necessary files to run the program. Follow any instructions provided in the README within that program's directory.
-
+$~~~~~~$
 ## Usage
 
 You can use, modify, and learn from the programs in this repository for educational and personal purposes. If you find a program particularly useful, you can integrate it into your projects or use it as a reference for solving similar problems.
-
+$~~~~~~$
 ## Contributions
 
 Contributions to this repository are welcome! If you have completed the GUVI Python Certification and would like to add your programs, improvements, or corrections, please follow these steps:
@@ -55,6 +55,8 @@ Contributions to this repository are welcome! If you have completed the GUVI Pyt
 
 5. Open a Pull Request (PR) from your branch to the main repository's `main` branch. Provide a clear description of your changes and their purpose.
 
----
+$~~~~~~$
 
-Happy coding and learning!!
+<div align="center">
+<b>THE END </b>
+</div>
